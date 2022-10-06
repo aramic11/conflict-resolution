@@ -1,7 +1,7 @@
 /* CSS variable declarations */
 :root {
-  --background: #484848;
-  --accent: #ff99cc;
+  --background: rgba(106, 74, 169, 0.333);
+  --accent: rgba(205, 64, 25, 0.4);
   --base-font: 'Calibri', sans-serif;
   --heading-font: 'Cambria', serif;
 }
